@@ -1,0 +1,585 @@
+[
+	{
+		"code": "000",
+		"title": "Computer science, information & general works",
+		"subcategories": [
+			{
+				"code": "010",
+				"title": "Bibliography",
+				"subcategories": [
+					{
+						"code": "011",
+						"title": "General bibliographies"
+					},
+					{
+						"code": "012",
+						"title": "Bibliographies of individuals"
+					},
+					{
+						"code": "013",
+						"title": "Bibliographies of works on specific subjects"
+					}
+				]
+			},
+			{
+				"code": "020",
+				"title": "Library & information sciences",
+				"subcategories": [
+					{
+						"code": "021",
+						"title": "Library relationships"
+					},
+					{
+						"code": "022",
+						"title": "Administration of physical plant"
+					},
+					{
+						"code": "023",
+						"title": "Personnel management"
+					}
+				]
+			},
+			{
+				"code": "030",
+				"title": "Encyclopaedias & books of facts",
+				"subcategories": [
+					{
+						"code": "031",
+						"title": "Encyclopaedias in specific languages"
+					},
+					{
+						"code": "032",
+						"title": "Encyclopaedias in English"
+					},
+					{
+						"code": "033",
+						"title": "Encyclopaedias in other Germanic languages"
+					}
+				]
+			}
+		]
+	},
+	{
+		"code": "100",
+		"title": "Philosophy & psychology",
+		"subcategories": [
+			{
+				"code": "110",
+				"title": "Metaphysics",
+				"subcategories": [
+					{
+						"code": "111",
+						"title": "Ontology"
+					},
+					{
+						"code": "112",
+						"title": "Existence"
+					},
+					{
+						"code": "113",
+						"title": "Cosmology"
+					}
+				]
+			},
+			{
+				"code": "120",
+				"title": "Epistemology",
+				"subcategories": [
+					{
+						"code": "121",
+						"title": "Theory of knowledge"
+					},
+					{
+						"code": "122",
+						"title": "Scepticism"
+					},
+					{
+						"code": "123",
+						"title": "Doubt"
+					}
+				]
+			},
+			{
+				"code": "130",
+				"title": "Parapsychology & occultism",
+				"subcategories": [
+					{
+						"code": "131",
+						"title": "Parapsychology"
+					},
+					{
+						"code": "132",
+						"title": "Unexplained phenomena"
+					},
+					{
+						"code": "133",
+						"title": "Parapsychological methods"
+					}
+				]
+			}
+		]
+	},
+	{
+		"code": "200",
+		"title": "Religion",
+		"subcategories": [
+			{
+				"code": "210",
+				"title": "Philosophy & theory of religion",
+				"subcategories": [
+					{
+						"code": "211",
+						"title": "Concepts of God"
+					},
+					{
+						"code": "212",
+						"title": "Existence, essence, attributes of God"
+					},
+					{
+						"code": "213",
+						"title": "Creation"
+					}
+				]
+			},
+			{
+				"code": "220",
+				"title": "Bible",
+				"subcategories": [
+					{
+						"code": "221",
+						"title": "Old Testament"
+					},
+					{
+						"code": "222",
+						"title": "Historical books of Old Testament"
+					},
+					{
+						"code": "223",
+						"title": "Poetic books of Old Testament"
+					}
+				]
+			},
+			{
+				"code": "230",
+				"title": "Christianity & Christian theology",
+				"subcategories": [
+					{
+						"code": "231",
+						"title": "God"
+					},
+					{
+						"code": "232",
+						"title": "Jesus Christ & his family"
+					},
+					{
+						"code": "233",
+						"title": "Humankind"
+					}
+				]
+			}
+		]
+	},
+	{
+		"code": "300",
+		"title": "Social sciences",
+		"subcategories": [
+			{
+				"code": "310",
+				"title": "Statistics",
+				"subcategories": [
+					{
+						"code": "311",
+						"title": "General statistics"
+					},
+					{
+						"code": "312",
+						"title": "Survey methods"
+					},
+					{
+						"code": "313",
+						"title": "Errors & accuracy in statistics"
+					}
+				]
+			},
+			{
+				"code": "320",
+				"title": "Political science",
+				"subcategories": [
+					{
+						"code": "321",
+						"title": "Systems of governments & states"
+					},
+					{
+						"code": "322",
+						"title": "Relation of state to organized groups"
+					},
+					{
+						"code": "323",
+						"title": "Civil & political rights"
+					}
+				]
+			},
+			{
+				"code": "330",
+				"title": "Economics",
+				"subcategories": [
+					{
+						"code": "331",
+						"title": "Labor economics"
+					},
+					{
+						"code": "332",
+						"title": "Financial economics"
+					},
+					{
+						"code": "333",
+						"title": "Economics of land & energy"
+					}
+				]
+			}
+		]
+	},
+	{
+		"code": "400",
+		"title": "Language",
+		"subcategories": [
+			{
+				"code": "410",
+				"title": "Linguistics",
+				"subcategories": [
+					{
+						"code": "411",
+						"title": "Writing systems"
+					},
+					{
+						"code": "412",
+						"title": "Phonology & phonetics"
+					},
+					{
+						"code": "413",
+						"title": "Semantics"
+					}
+				]
+			},
+			{
+				"code": "420",
+				"title": "English & Old English languages",
+				"subcategories": [
+					{
+						"code": "421",
+						"title": "English writing systems"
+					},
+					{
+						"code": "422",
+						"title": "English etymology"
+					},
+					{
+						"code": "423",
+						"title": "English dictionaries"
+					}
+				]
+			},
+			{
+				"code": "430",
+				"title": "Germanic languages",
+				"subcategories": [
+					{
+						"code": "431",
+						"title": "German writing systems"
+					},
+					{
+						"code": "432",
+						"title": "German etymology"
+					},
+					{
+						"code": "433",
+						"title": "German dictionaries"
+					}
+				]
+			}
+		]
+	},
+	{
+		"code": "500",
+		"title": "Natural sciences & mathematics",
+		"subcategories": [
+			{
+				"code": "510",
+				"title": "Mathematics",
+				"subcategories": [
+					{
+						"code": "511",
+						"title": "General principles of mathematics"
+					},
+					{
+						"code": "512",
+						"title": "Algebra & number theory"
+					},
+					{
+						"code": "513",
+						"title": "Arithmetic"
+					}
+				]
+			},
+			{
+				"code": "520",
+				"title": "Astronomy & allied sciences",
+				"subcategories": [
+					{
+						"code": "521",
+						"title": "Celestial mechanics"
+					},
+					{
+						"code": "522",
+						"title": "Techniques, procedures, apparatus, equipment, materials, forms in astronomy"
+					},
+					{
+						"code": "523",
+						"title": "Specific celestial bodies & phenomena"
+					}
+				]
+			},
+			{
+				"code": "530",
+				"title": "Physics",
+				"subcategories": [
+					{
+						"code": "531",
+						"title": "Classical mechanics"
+					},
+					{
+						"code": "532",
+						"title": "Fluid mechanics"
+					},
+					{
+						"code": "533",
+						"title": "Gas mechanics"
+					}
+				]
+			}
+		]
+	},
+	{
+		"code": "600",
+		"title": "Technology (Applied sciences)",
+		"subcategories": [
+			{
+				"code": "610",
+				"title": "Medicine & health",
+				"subcategories": [
+					{
+						"code": "611",
+						"title": "Human anatomy, cytology, histology"
+					},
+					{
+						"code": "612",
+						"title": "Human physiology"
+					},
+					{
+						"code": "613",
+						"title": "Personal health & safety"
+					}
+				]
+			},
+			{
+				"code": "620",
+				"title": "Engineering & allied operations",
+				"subcategories": [
+					{
+						"code": "621",
+						"title": "Applied physics"
+					},
+					{
+						"code": "622",
+						"title": "Mining & related operations"
+					},
+					{
+						"code": "623",
+						"title": "Military & nautical engineering"
+					}
+				]
+			},
+			{
+				"code": "630",
+				"title": "Agriculture & related technologies",
+				"subcategories": [
+					{
+						"code": "631",
+						"title": "Techniques, equipment, materials in agriculture"
+					},
+					{
+						"code": "632",
+						"title": "Plant injuries, diseases, pests"
+					},
+					{
+						"code": "633",
+						"title": "Field & plantation crops (Horticulture)"
+					}
+				]
+			}
+		]
+	},
+	{
+		"code": "700",
+		"title": "Arts & recreation",
+		"subcategories": [
+			{
+				"code": "710",
+				"title": "Civic & landscape art",
+				"subcategories": [
+					{
+						"code": "711",
+						"title": "Area planning"
+					},
+					{
+						"code": "712",
+						"title": "Landscape architecture"
+					},
+					{
+						"code": "713",
+						"title": "Landscape design of traffic ways"
+					}
+				]
+			},
+			{
+				"code": "720",
+				"title": "Architecture",
+				"subcategories": [
+					{
+						"code": "721",
+						"title": "Architectural structure"
+					},
+					{
+						"code": "722",
+						"title": "Architecture to fit specific conditions"
+					},
+					{
+						"code": "723",
+						"title": "Architecture to specific kinds of persons"
+					}
+				]
+			},
+			{
+				"code": "730",
+				"title": "Plastic arts & sculpture",
+				"subcategories": [
+					{
+						"code": "731",
+						"title": "Plastic arts & related arts"
+					},
+					{
+						"code": "732",
+						"title": "Sculpture"
+					},
+					{
+						"code": "733",
+						"title": "Clay, ceramics, stone, metal, wood, plastic arts"
+					}
+				]
+			}
+		]
+	},	
+
+		{
+			"code": "800",
+			"title": "Literature",
+			"subcategories": [
+				{
+					"code": "810",
+					"title": "American literature in English",
+					"subcategories": [
+						{
+							"code": "811",
+							"title": "American Poetry"
+						},
+						{
+							"code": "812",
+							"title": "American Drama"
+						},
+						{
+							"code": "813",
+							"title": "American Fiction"
+						}
+					]
+				},
+				{
+					"code": "820",
+					"title": "English & Old English literatures",
+					"subcategories": [
+						{
+							"code": "821",
+							"title": "British Poetry"
+						},
+						{
+							"code": "822",
+							"title": "British Drama"
+						},
+						{
+							"code": "823",
+							"title": "British Fiction"
+						}
+					]
+				},
+				{
+					"code": "830",
+					"title": "Literatures of Germanic languages",
+					"subcategories": [
+						{
+							"code": "831",
+							"title": "Germanic Poetry"
+						},
+						{
+							"code": "832",
+							"title": "Germanic Drama"
+						},
+						{
+							"code": "833",
+							"title": "Germanic Fiction"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "900",
+			"title": "History & geography",
+			"subcategories": [
+				{
+					"code": "910",
+					"title": "Geography & travel",
+					"subcategories": [
+						{
+							"code": "911",
+							"title": "Historical geography"
+						},
+						{
+							"code": "912",
+							"title": "Graphic representations of Earth"
+						},
+						{
+							"code": "913",
+							"title": "Geography of other specific areas"
+						}
+					]
+				},
+				{
+					"code": "920",
+					"title": "Biography & genealogy",
+					"subcategories": [
+						{
+							"code": "921",
+							"title": "Genealogy, names, insignia"
+						},
+						{
+							"code": "922",
+							"title": "Biography of specific persons"
+						},
+						{
+							"code": "923",
+							"title": "Specific groups of people"
+						}
+					]
+				}
+			]
+		}
+	]

@@ -1,0 +1,130 @@
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\source\repos\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.SuggestedBindingRedirects.cache
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+D:\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\OneDrive\Desktop\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Desktop\Varsity 2023\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Downloads\vcnmb-prog7312-2023-poe-MichaelKriel05-master\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.SuggestedBindingRedirects.cache
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+D:\vcnmb-prog7312-2023-poe-MichaelKriel05-master\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Documents\GitHub\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe.config
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.AssemblyReference.cache
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.g.cs
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\App.g.cs
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.cache
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp_MarkupCompile.lref
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\MainWindow.baml
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.g.resources
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.Properties.Resources.resources
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.exe
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.pdb
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\micha\Source\Repos\VCNMB\vcnmb-prog7312-2023-poe-MichaelKriel05\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\PROG_PART_1_LibraryApp\obj\Debug\PROG_PART_1_LibraryApp.csproj.CopyComplete
